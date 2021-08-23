@@ -1,3 +1,5 @@
+# Sets up initial variables (screen size, tileset), creates entities, passes them to the engine
+
 import tcod
 
 from engine import Engine
